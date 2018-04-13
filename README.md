@@ -8,4 +8,4 @@ Names:
 - Kallil de Araujo
 - Theresa
 - Dina Lívia
-- Mateus Freitas
+- José Tobias
