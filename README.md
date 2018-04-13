@@ -3,5 +3,8 @@ Group lesson
 
 Names:
 - Carlos Eduardo
-- Mateus Freitas
+- Fernando Queiroz
+- Sidnei Júnior
+- Kallil de Araujo
 - Theresa
+- Dina Lívia
