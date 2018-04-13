@@ -7,3 +7,4 @@ Names:
 - Sidnei Júnior
 - Kallil de Araujo
 - Theresa
+- Dina Lívia
