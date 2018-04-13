@@ -10,3 +10,5 @@ Names:
 - Dina Lívia
 - José Tobias
 - Mateus
+- Gérfesson Santos 
+- Holanda
