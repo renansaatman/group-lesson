@@ -2,4 +2,5 @@ Group lesson
 ===========
 
 Names:
-- Carlos Eduardo
+- Carlos Eduardo 
+- José Tobias
