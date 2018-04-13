@@ -9,4 +9,4 @@ Names:
 - Theresa
 - Dina Lívia
 - José Tobias
-- Mateus Freitas
+- Mateus
