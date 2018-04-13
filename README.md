@@ -2,5 +2,10 @@ Group lesson
 ===========
 
 Names:
-- Carlos Eduardo 
+- Carlos Eduardo
+- Fernando Queiroz
+- Sidnei Júnior
+- Kallil de Araujo
+- Theresa
+- Dina Lívia
 - José Tobias
